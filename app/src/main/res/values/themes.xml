@@ -24,7 +24,7 @@
     </style>
 
     <style name="Widget.BottomSheetStyle.Detail.Contact">
-        <item name="backgroundTint">@color/on_surface_20</item>
+        <item name="backgroundTint">@color/on_surface_75</item>
     </style>
 
     <style name="ShapeAppearance.Top.Rounded" parent="ShapeAppearance.MaterialComponents.LargeComponent">
