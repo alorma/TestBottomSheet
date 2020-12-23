@@ -20,11 +20,11 @@
     </style>
 
     <style name="Widget.BottomSheetStyle.Detail">
-        <item name="backgroundTint">?colorOnSurface</item>
+        <item name="behavior_peekHeight">200dp</item>
     </style>
 
     <style name="Widget.BottomSheetStyle.Detail.Contact">
-        <item name="backgroundTint">@color/surface_20</item>
+        <item name="backgroundTint">@color/on_surface_20</item>
     </style>
 
     <style name="ShapeAppearance.Top.Rounded" parent="ShapeAppearance.MaterialComponents.LargeComponent">
