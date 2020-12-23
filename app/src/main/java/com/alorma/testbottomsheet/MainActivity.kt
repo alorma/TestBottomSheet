@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
             holder.bind("Item $position")
         }
 
-        override fun getItemCount(): Int = 1000
+        override fun getItemCount(): Int = 40
 
     }
 }
